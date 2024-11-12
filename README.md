@@ -1,1 +1,1 @@
-### 수학 계산을 도와주는 프로그램
+### program for basic calculation
